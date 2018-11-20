@@ -27,11 +27,10 @@ var text = [
     "SAVED",
     "DESTROYED",
     "CORRUPTED",
-    "LASTING",
-    "BRING BACK",
-    "PLEASANT",
-    "FLASH",
-    "RANDOM ACCESS"
+    "RANDOM ACCESS",
+    "READ ONLY",
+    "RECURSIVE",
+    "SIDELOADED"
     ];
 
 
